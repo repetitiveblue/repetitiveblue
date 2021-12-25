@@ -1,0 +1,4 @@
+<img src='https://raw.githubusercontent.com/repetitiveblue/repetitiveblue/master/profile-summary-card-output/solarized/0-profile-details.svg'>
+<img src='https://raw.githubusercontent.com/repetitiveblue/repetitiveblue/master/profile-summary-card-output/solarized/1-repos-per-language.svg'><img src='https://raw.githubusercontent.com/repetitiveblue/repetitiveblue/master/profile-summary-card-output/solarized/2-most-commit-language.svg'><img src='https://raw.githubusercontent.com/repetitiveblue/repetitiveblue/master/profile-summary-card-output/solarized/3-stats.svg'><img src='https://raw.githubusercontent.com/repetitiveblue/repetitiveblue/master/profile-summary-card-output/solarized/4-productive-time.svg'>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=repetitiveblue&theme=vue&show_icons=true)
