@@ -4,3 +4,21 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=repetitiveblue&theme=vue&show_icons=true)
+
+```
+R:.
+├───languages
+│       html
+│       css
+│       javascript
+├───social media
+│       https://github.com/repetitiveblue
+│       https://twitter.com/repetitiveblue
+│       https://stackoverflow.com/users/17724474
+│       https://www.youtube.com/channel/UCG30ADu-lMYQeq2zrL__bQg
+│       https://discord.com/users/674994297644384257
+└───stats
+        https://raw.githubusercontent.com/repetitiveblue/repetitiveblue/master/profile-summary-card-output/solarized/3-stats.svg
+        https://raw.githubusercontent.com/repetitiveblue/repetitiveblue/master/profile-summary-card-output/solarized/4-productive-time.svg
+```
+     
