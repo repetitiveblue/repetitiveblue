@@ -9,5 +9,5 @@ html, css, js, ts, ruby
 [<img src='https://i.imgur.com/ZbAGnEk.png' alt='discord' height='40'>](https://discord.com/users/674994297644384257)
 
 ### stats
-[stats-1.png](https://raw.githubusercontent.com/repetitiveblue/repetitiveblue/master/profile-summary-card-output/solarized/3-stats.svg)
-[stats-2.png](https://raw.githubusercontent.com/repetitiveblue/repetitiveblue/master/profile-summary-card-output/solarized/4-productive-time.svg)
+![stats-1.png](https://raw.githubusercontent.com/repetitiveblue/repetitiveblue/master/profile-summary-card-output/solarized/3-stats.svg)
+![stats-2.png](https://raw.githubusercontent.com/repetitiveblue/repetitiveblue/master/profile-summary-card-output/solarized/4-productive-time.svg)
