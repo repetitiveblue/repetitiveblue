@@ -1,10 +1,10 @@
 <details open>
 <summary><b>languages</b></summary>
 <br>
-<a href="#"><img src="https://i.imgur.com/aE3bj6X.png" alt='html5' height='26px'></a>
-<a href="#"><img src="https://i.imgur.com/S0Iprni.png" alt='css3' height='26px'></a>
+<!-- <a href="#"><img src="https://i.imgur.com/aE3bj6X.png" alt='html5' height='26px'></a>
+<a href="#"><img src="https://i.imgur.com/S0Iprni.png" alt='css3' height='26px'></a> -->
 <!-- <a href="#"><img src="https://i.imgur.com/t7BYSKe.png" alt='sass' height='26px'></a> -->
-<a href="#"><img src="https://i.imgur.com/r2mqDzW.png" alt='javascript' height='26px'></a>
+<!-- <a href="#"><img src="https://i.imgur.com/r2mqDzW.png" alt='javascript' height='26px'></a> -->
 <!-- <a href="#"><img src="https://i.imgur.com/7a4FXbu.png" alt='react' height='26px'></a>
 <a href="#"><img src="https://i.imgur.com/X8YrqqI.png" alt='gatsby' height='26px'></a>
 <a href="#"><img src="https://i.imgur.com/ICcnSDY.png" alt='graphQL' height='26px'></a>
