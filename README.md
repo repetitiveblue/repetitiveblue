@@ -13,7 +13,8 @@
 <a href="#"><img src="https://i.imgur.com/v7H2uW1.png" alt='sql' height='26px'></a>
 <a href="#"><img src="https://i.imgur.com/MZXYfIY.png" alt='mysql' height='26px'></a>
 <a href="#"><img src="https://i.imgur.com/zhaqUsk.png" alt='mongoDB' height='26px'></a><br> -->
-<a href="#"><img src="https://i.imgur.com/7eUUs1C.png" alt='cpp' height='26px'></a>
+<!-- <a href="#"><img src="https://i.imgur.com/7eUUs1C.png" alt='cpp' height='26px'></a> -->
+<a href="#"><img src="https://i.imgur.com/cn9vM7W.png" alt='c' height='26px'></a>
 <a href="#"><img src="https://i.imgur.com/pk25lOJ.png" alt='visual studio code' height='26px'></a>
 <!-- <a href="#"><img src="https://i.imgur.com/8GoGwa2.png" alt='git' height='26px'></a> -->
 <a href="#"><img src="https://i.imgur.com/S4efLO7.png" alt='github' height='26px'></a>
