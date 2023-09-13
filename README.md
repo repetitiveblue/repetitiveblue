@@ -4,7 +4,6 @@
 <!-- <a href="#"><img src="https://i.imgur.com/aE3bj6X.png" alt='html5' height='26px'></a>
 <a href="#"><img src="https://i.imgur.com/S0Iprni.png" alt='css3' height='26px'></a> -->
 <!-- <a href="#"><img src="https://i.imgur.com/t7BYSKe.png" alt='sass' height='26px'></a> -->
-<a href="#"><img src="https://i.imgur.com/r2mqDzW.png" alt='javascript' height='26px'></a>
 <!-- <a href="#"><img src="https://i.imgur.com/7a4FXbu.png" alt='react' height='26px'></a>
 <a href="#"><img src="https://i.imgur.com/X8YrqqI.png" alt='gatsby' height='26px'></a>
 <a href="#"><img src="https://i.imgur.com/ICcnSDY.png" alt='graphQL' height='26px'></a>
@@ -15,13 +14,16 @@
 <a href="#"><img src="https://i.imgur.com/zhaqUsk.png" alt='mongoDB' height='26px'></a><br> -->
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt='PHP' height='26px'></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/LaravelLogo.png" alt='Laravel' height='26px'></a>
+<a href="#"><img src="https://i.imgur.com/5MOwKsH.png" alt='Livewire' height='26px'></a>
+<a href="#"><img src="https://i.imgur.com/r2mqDzW.png" alt='javascript' height='26px'></a>
 <!-- <a href="#"><img src="https://i.imgur.com/7eUUs1C.png" alt='cpp' height='26px'></a> -->
 <!-- <a href="#"><img src="https://i.imgur.com/cn9vM7W.png" alt='c' height='26px'></a> -->
 <!-- <a href="#"><img src="https://i.imgur.com/pk25lOJ.png" alt='visual studio code' height='26px'></a> -->
 <a href="#"><img src="https://i.imgur.com/8GoGwa2.png" alt='git' height='26px'></a>
+<a href="#"><img src="https://i.imgur.com/9xBQtt5.png" alt='phpstorm' height='26px'></a>
 <!-- <a href="#"><img src="https://i.imgur.com/S4efLO7.png" alt='github' height='26px'></a> -->
 <br>
-<sup>definetely not superficial</sup>
+<!-- <sup>definetely not superficial</sup> not anymore:) -->
 </details>
 
 <details>
